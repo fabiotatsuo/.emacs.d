@@ -1,0 +1,13 @@
+*~
+\#*\#
+.\#*
+.cache/
+auto-save-list/
+backup/
+elpa/
+/.emacs.desktop
+/.emacs.desktop.lock
+eshell/
+/recentf
+themes/treble-theme (Copy 1).el
+themes/treble-theme-copy.el

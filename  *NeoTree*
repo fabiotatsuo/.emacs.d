@@ -1,0 +1,32 @@
+<ers/macbookpro/.emacs.d
+			..
+			auto-save-list/
+			backup/
+			elpa/
+			fonts/
+			lisp/
+  				.#init-ui.el
+  				init-backup.el
+  				init-editing.el
+  				init-elpa.el
+  				init-language.el
+  				init-navigation.el
+  				init-recipe.el
+  				init-ui.el
+  				init-backup.el~
+  				init-editing.el~
+  				init-elpa.el~
+  				init-navigation.el~
+  				init-ui.el~
+			recipes/
+			themes/
+			.git/
+				recentf
+				.emacs.desktop
+				init.el
+				init.el~
+				#.gitignore#
+				.gitignore
+				.emacs.desktop.lock
+				tmux-client-39440.log
+				tmux-server-39442.log
