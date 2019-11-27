@@ -2,6 +2,8 @@
 
 This is an emacs init setup.
 
+![screenshot](https://github.com/fabiotatsuo/.emacs.d/blob/master/screenshots/screenshot.png)
+
 ## Structure folders
 
 To enable or disable packages you can comment them on init.el file.
